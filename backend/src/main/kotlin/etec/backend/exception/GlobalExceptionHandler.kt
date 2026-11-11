@@ -1,6 +1,6 @@
-package etec.bdd.exception
+package etec.backend.exception
 
-import etec.bdd.exception.ProductoNoEncontradoException
+import etec.backend.exception.ProductoNoEncontradoException
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.MethodArgumentNotValidException
